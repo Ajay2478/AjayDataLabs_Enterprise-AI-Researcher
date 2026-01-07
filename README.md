@@ -54,5 +54,5 @@ This architecture allows for **free** processing of heavy documents without hitt
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ajay2478/Enterprise-AI-Researcher.git (https://github.com/Ajay2478/Enterprise-AI-Researcher.git)
+git clone https://github.com/Ajay2478/Enterprise-AI-Researcher.git
 cd Enterprise-AI-Researcher
